@@ -8,7 +8,7 @@
 
 import UIKit
 
-let keyOrder = ["Overdue", "Today", "Tomorrow", "Nextweek", "Future"]
+let keyOrder = ["A", "B", "C", "D", "E"]
 
 struct Root : Decodable {
     let status : Bool
